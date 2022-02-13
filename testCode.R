@@ -1,1 +1,1 @@
-myVariable <- "my variables"
+myVariable <- "my variable"
